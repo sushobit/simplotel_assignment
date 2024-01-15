@@ -11,7 +11,10 @@ or frameworks like Bootstrap, Material UI, etc.
 
 
 
+https://github.com/sushobit/simplotel_assignment/assets/120631631/cc827f58-c451-4766-8a55-ce1b8c64e685
 
-https://github.com/sushobit/simplotel_assignment/assets/120631631/fe8ac781-d91d-4891-b688-fc4a55d3cb3b
+
+
+
 
 
